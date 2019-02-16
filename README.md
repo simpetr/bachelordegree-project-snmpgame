@@ -3,7 +3,7 @@
 I developed this game as my bachelor degree thesis project. The game uses some data gathered by the SNMP protocol to create and to update some elements of the game itself. 
 
 The is available on:
--Windows
+- Windows
 
 The game it's like a "3D Task Manager". Game goal is to find as many monsters as possible around the map and "scan" them.The game is time limited, to stop the countdown is necessary to scan at least 70% of monsters. Each monster is a real process executing on the machine we connected previously. A monster will move only if the related process is running, and its size will change based on the RAM usage. Monsters can "see" or "hear" the player, in that case they will start to follow the player trying to hit it. The player can run and escape from them or killing them with the laser gun losing the chance to get the information about their related processes.
 
