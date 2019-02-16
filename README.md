@@ -77,9 +77,9 @@ snmpwalk -v 2c -c public 127.0.0.1 1.3.6.1.2.1.1
 - E scan
 - B scanned processes information view
 
-While the scanned processes information view is open
-- up/down arrows to move between the scanned processes
-- L to mark the selected scanned process
+- While the scanned processes information view is open
+  - up/down arrows to move between the scanned processes
+  - L to mark the selected scanned process
 
 - T turn on beacon
 - Y heal
