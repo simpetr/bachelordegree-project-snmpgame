@@ -1,0 +1,356 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Simone\Desktop\InitArena\InitArena_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Simone\Desktop\InitArena\InitArena_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Simone\Desktop\InitArena\InitArena_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Simone\Desktop\InitArena\InitArena_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Simone\Desktop\InitArena\InitArena_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\SnmpSharpNet.dll (this message is harmless)
+Loading D:\Simone\Desktop\InitArena\InitArena_Data\Managed\SnmpSharpNet.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Simone\Desktop\InitArena\InitArena_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3280x1091 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'ApplicationsPanel') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.672847 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2e4c -> priority: 1 
+SNMP agent returned ErrorStatus 6 on index 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.455400 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2890.
+Total: 1.087604 ms (FindLiveObjects: 0.132818 ms CreateObjectMapping: 0.102632 ms MarkObjects: 0.816533 ms  DeleteObjects: 0.034713 ms)
+
+Non sono presenti sensori di temperatura
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ho urtatoUntagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ho urtatoUntagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ho urtatoUntagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ho urtatoUntagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ho urtatoUntagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Muore processo :800 top
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ho urtatoEnemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+nuova altezza2.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:IsInvoking (string)
+  at MainGameInformation.ConquerController () [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at PointsCalculator.DecreasePoints (Int32 value) [0x00000] in <filename unknown>:0 
+  at BasicMonsterBehaviour.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:IsInvoking (string)
+  at MainGameInformation.ConquerController () [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at PointsCalculator.DecreasePoints (Int32 value) [0x00000] in <filename unknown>:0 
+  at BasicMonsterBehaviour.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:IsInvoking (string)
+  at MainGameInformation.ConquerController () [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at PointsCalculator.DecreasePoints (Int32 value) [0x00000] in <filename unknown>:0 
+  at BasicMonsterBehaviour.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:IsInvoking (string)
+  at MainGameInformation.ConquerController () [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at PointsCalculator.DecreasePoints (Int32 value) [0x00000] in <filename unknown>:0 
+  at BasicMonsterBehaviour.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TEMPO FERMATO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:IsInvoking (string)
+  at MainGameInformation.ConquerController () [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at PointsCalculator.DecreasePoints (Int32 value) [0x00000] in <filename unknown>:0 
+  at BasicMonsterBehaviour.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FATTO SCAN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseScannedProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at PointsCalculator.DecreasePoints (Int32 value) [0x00000] in <filename unknown>:0 
+  at BasicMonsterBehaviour.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FATTO PROCESS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x00000] in <filename unknown>:0 
+  at MainGameInformation.DecreaseProcesses () [0x00000] in <filename unknown>:0 
+  at NetworkProcess.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
