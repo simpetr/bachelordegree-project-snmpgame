@@ -72,20 +72,20 @@ snmpwalk -v 2c -c public 127.0.0.1 1.3.6.1.2.1.1
 ## CONTROLS
 
 -WASD movement
--1 turn on/off torch
--2 laser gun
--E scan
--B scanned processes information view
+- 1 turn on/off torch
+- 2 laser gun
+- E scan
+- B scanned processes information view
 
 While the scanned processes information view is open
--up/down arrows to move between the scanned processes
--L to mark the selected scanned process
+- up/down arrows to move between the scanned processes
+- L to mark the selected scanned process
 
--T turn on beacon
--Y heal
--U extra battery
--I laser gun extra energy
--O speed boost
+- T turn on beacon
+- Y heal
+- U extra battery
+- I laser gun extra energy
+- O speed boost
 
 
 
